@@ -1,0 +1,2 @@
+# GPTmacs
+Emacs ChatGPT interface
